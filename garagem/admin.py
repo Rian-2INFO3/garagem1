@@ -1,9 +1,8 @@
-from django.contrib import admin
 
 from django.contrib import admin
-from .models import Mss
+from .models import Marca
 
-admin.site.register(Mss)
+admin.site.register(Marca)
 
 
 from django.contrib import admin
